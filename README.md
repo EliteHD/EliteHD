@@ -1,5 +1,5 @@
 ### Hello Codes💻 
-<img src="./banner-jos-wh.png" min-width="500px" max-width="500px" width="1536 px" align="center" alt="Logo LOGO-Jdh png">
+<img src="./banner-jos-wh.png" min-width="500px" max-width="500px" width="1536px" align="center" alt="Logo LOGO-Jdh png">
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-dominguez-915a63253/)](https://www.linkedin.com/in/josias-dominguez-915a63253/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/EliteHD)](https://github.com/EliteHD) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMfyehRYuDsJ1C0d56BmurA=subscriber)](https://www.youtube.com/channel/UCMfyehRYuDsJ1C0d56BmurA=subscriber) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://medium.com/@ijosiasdhz)](https://medium.com/@ijosiasdhz) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/josias.dhz/)](https://www.instagram.com/josias.dhz/) ![](https://komarev.com/ghpvc/?username=EliteHD)
 
@@ -19,7 +19,8 @@ Hi, my name is Josias Dominguez Hernández! ! actually I'm software engineering 
 <center>
   <table>
     <tr>
-        <td><img width="495px" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EliteHD&show_icons=true&count_private=true" /></td>
+     <br>
+        <td><img width="495px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EliteHD&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
