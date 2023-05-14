@@ -1,7 +1,7 @@
 ### Hello Codes💻 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josias-dominguez-915a63253/)](https://www.linkedin.com/in/josias-dominguez-915a63253/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/EliteHD)](https://github.com/EliteHD) [![YouTube](https://img.shields.io/badge/-Youtube-FF0000?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMfyehRYuDsJ1C0d56BmurA=subscriber)](https://www.youtube.com/channel/UCMfyehRYuDsJ1C0d56BmurA=subscriber) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://medium.com/@ijosiasdhz)](https://medium.com/@ijosiasdhz) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/josias.dhz/)](https://www.instagram.com/josias.dhz/) ![](https://komarev.com/ghpvc/?username=EliteHD)
 
-<img src="./LOGO-JOSIAS.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo LOGO-JOSIAS png">
+<img src="./LOGO-Jdh.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Logo LOGO-Jdh png">
 
 <p align="left"> 
 Hi, my name is Josias Dominguez Hernández! ! actually I'm software engineering student with experience in both residential and business projects. I love learning and staying up-to-date with the latest technologies and advancements in programming and design. As a developer, I focus on creating practical and innovative solutions to real-world problems. I'm always looking for new challenges and opportunities to grow and improve my skills. <br> <br>
