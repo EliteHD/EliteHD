@@ -6,7 +6,8 @@
 <p align="left"> 
 Hi, my name is Josias Dominguez Hernández! ! actually I'm software engineering student with experience in both residential and business projects. I love learning and staying up-to-date with the latest technologies and advancements in programming and design. As a developer, I focus on creating practical and innovative solutions to real-world problems. I'm always looking for new challenges and opportunities to grow and improve my skills. <br> <br>
 
-💻 Software Engineer Inter at [TecNeg](https://www.tec-neg.com.br/)<br>
+💻 Software Engineer Inter at [TecNeg](https://www.tec-neg.com.br/), [Theron](https://theron.com.mx/)<br>
+✅ Proyects Cou-funder and Software Engineer [DevMentes](https://devmentes.com/) and [InternsMexico](#) <br>
 📚 Studyng and experience in React, Laravel, React Native, Flutter, Java, and .NET, and others c:<br>
 🐱‍💻 I have worked in Community Management, Graphic Design, Web Design, and Custom Software Development. And others<br>
 </p>
