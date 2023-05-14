@@ -8,7 +8,7 @@ Hi, my name is Josias Dominguez Hernández! ! actually I'm software engineering 
 
 💻 Software Engineer Inter at [TecNeg](https://www.tec-neg.com.br/), [Theron](https://theron.com.mx/)<br>
 ✅ Proyects Cou-funder and Software Engineer [DevMentes](https://devmentes.com/) and [InternsMexico](#) <br>
-📚 Studyng and experience in React, Laravel, React Native, Flutter, Java, and .NET, and others c:<br>
+📚 Studyng and experience in React, Laravel, React Native, Flutter, Java, and .NET, and others<br>
 🐱‍💻 I have worked in Community Management, Graphic Design, Web Design, and Custom Software Development. And others<br>
 </p>
 
