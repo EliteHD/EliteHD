@@ -20,7 +20,6 @@ Hi, my name is Josias Dominguez Hernández! ! actually I'm software engineering 
   <table>
     <tr>
      <br>
-        <td><img width="495px" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EliteHD&show_icons=true&count_private=true" /></td>
     </tr>   
   </table>
 </center>
